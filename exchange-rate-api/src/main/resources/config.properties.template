@@ -1,0 +1,5 @@
+# API Configuration
+api.key=YOUR_API_KEY_HERE
+
+# Other configurations can be added below
+# example.config=example_value
